@@ -1,5 +1,4 @@
 🧠 GA02 – Multi-Document RAG Search Engine
-
 with Real-Time Web & Hybrid Search
 
 Name: Utkrisht Agrawal
