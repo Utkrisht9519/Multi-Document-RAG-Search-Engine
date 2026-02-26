@@ -1,10 +1,6 @@
 🧠 GA02 – Multi-Document RAG Search Engine
 with Real-Time Web & Hybrid Search
 
-Name: Utkrisht Agrawal
-
-Email: www.rkayush412@gmail.com
-
 A production-ready Retrieval-Augmented Generation (RAG) chatbot built using Streamlit, LangChain, FAISS, Groq, and Tavily.
 This application allows users to upload multiple documents, ask questions, and receive grounded answers with citations, optionally enhanced by real-time web search.
 
